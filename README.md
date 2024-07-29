@@ -25,6 +25,8 @@ astro_airflow/
 │
 ├── requirements.txt
 └── Dockerfile
+```
+
 Astronomer configuration
 Start a new Astronomer project:
 
